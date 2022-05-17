@@ -82,8 +82,6 @@ span {
   max-width: 50%;
   opacity: 0.8;
 }
-
-
 .button{
   background-image: linear-gradient( to right, hsl(0, 1%, 75%),hsl(0, 0%, 100%));
   border:none;
